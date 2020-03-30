@@ -1,0 +1,27 @@
+
+body {
+    background-color: blue;
+}
+
+body {
+    background-color:yellow;
+}
+
+.parentDiv > p {
+    color:red;
+}
+
+.box_sizing_demo {
+    height:200px;
+    width:50px;
+    border : 1px solid black;
+    overflow:scroll;
+}
+
+.inline-demo {
+    display : inline-block;
+    width:70%;
+    height:200px;
+    margin:20px;
+    padding:40px;
+}
